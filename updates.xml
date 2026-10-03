@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='mppcdfljghfobbkeafjppnaancfmmdld'>
-    <updatecheck 
-      codebase='https://github.com/GitWizard24/gmail-edge-dock-release/releases/download/v0.0-beta.1/Gmail_Ext.crx' 
-      version='2.4.0' />
+    <updatecheck codebase='https://github.com/GitWizard24/gmail-edge-dock-release/releases/download/v2.4.0/Gmail_Ext.crx' version='2.4.0' />
   </app>
 </gupdate>
